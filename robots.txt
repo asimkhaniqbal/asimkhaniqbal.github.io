@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asimkhaniqbal.github.io/apify-actor-examples/sitemap.xml
