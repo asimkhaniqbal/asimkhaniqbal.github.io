@@ -5,3 +5,4 @@ Allow: /
 
 Sitemap: https://asimkhaniqbal.github.io/apify-actor-examples/sitemap.xml
 Sitemap: https://asimkhaniqbal.github.io/apify-actor-examples/sitemap.txt
+Sitemap: https://asimkhaniqbal.github.io/sitemap.xml
